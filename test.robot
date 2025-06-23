@@ -1,7 +1,9 @@
 *** Settings ***
-Library    SeleniumLibrary
+Library    SeleniumLibrary{
+  
+}eded
 
-*** Variables ***
+*** Variabledddces ***
 ${URL}           https://example.com/login
 ${USERNAME}      testuser
 ${PASSWORD}      secret123
